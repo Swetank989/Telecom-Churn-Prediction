@@ -1,0 +1,4 @@
+In churn prediction model i have used three models:- Logistic Regression, Random Forest , XGBoost
+Result: XGBoost model performed well providing balanced result providing highest accuracy and strong roc_auc score whereas
+        Random Forest predicted more false positives but less false negative then XGBoost.
+        Overall XGBoost is a balanced model to use to predict churn
